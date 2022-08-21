@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/Portfolio/static/js/main.92e05432.js",
+    "main.css": "/Portfolio/static/css/main.2d9473c0.css",
+    "main.js": "/Portfolio/static/js/main.69fd5be8.js",
+    "static/media/ITVDNreact.png": "/Portfolio/static/media/ITVDNreact.61cbce738b5f62773ee7.png",
+    "static/media/git.png": "/Portfolio/static/media/git.62b3a29f64110849c9c5.png",
+    "static/media/Background change on click.gif": "/Portfolio/static/media/Background change on click.9d7f1f44ed4f0517ca14.gif",
+    "static/media/Photo.jpg": "/Portfolio/static/media/Photo.f7aa75a0c2dfa10cacce.jpg",
+    "static/media/carousel.gif": "/Portfolio/static/media/carousel.1d1cd815d5cab6910083.gif",
+    "static/media/SololearnJS.png": "/Portfolio/static/media/SololearnJS.999a86f6c9a2f8b51046.png",
+    "static/media/Nickname generator.gif": "/Portfolio/static/media/Nickname generator.e7299058fb300cb92720.gif",
+    "static/media/noPhoto.jpg": "/Portfolio/static/media/noPhoto.3f37e96d8d04d1e67452.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.073c9b0a.css.map": "/Portfolio/static/css/main.073c9b0a.css.map",
-    "main.92e05432.js.map": "/Portfolio/static/js/main.92e05432.js.map"
+    "main.2d9473c0.css.map": "/Portfolio/static/css/main.2d9473c0.css.map",
+    "main.69fd5be8.js.map": "/Portfolio/static/js/main.69fd5be8.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.92e05432.js"
+    "static/css/main.2d9473c0.css",
+    "static/js/main.69fd5be8.js"
   ]
 }

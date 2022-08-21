@@ -1,0 +1,197 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* Navbar */
+.nav {
+    top: 0;
+    width: 100%;
+    height: 60px;
+    background: rgba(255, 255, 255, 0.9);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 300px;
+    position: fixed;
+}
+.nav .links a {
+    color: #000;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.nav .links a:last-child {
+    margin-right: 0;
+}
+.nav .links a:hover {
+    text-decoration: underline;
+}
+.nav .head a {
+    color: #000;
+    font-size: 30px;
+    text-decoration: none;
+}
+/* Portfolio */
+.mainSector {
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+.mainSector .photo {
+    width: 250px;
+    border-radius: 100%;
+    margin-bottom: 30px;
+    border: 1px solid black;
+}
+hr {
+    width: 800px;
+    margin: auto;
+    background: rgba(154, 154, 154, 0.5);
+    border: 1px solid rgb(121, 121, 121);
+    border-radius: 100%;
+    margin-bottom: 30px;
+}
+.A {
+    margin-left: 370px;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.aboutMe {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 370px;
+    margin-bottom: 30px;
+    text-indent: 25px;
+}
+.aboutMe a {
+    color: #000;
+}
+.headS {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 370px;
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.skills {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 370px;
+    margin-bottom: 30px;
+}
+#done {
+    width: 20px;
+    margin-right: 5px;
+}
+#star {
+    width: 15px;
+    margin-right: 5px;
+}
+.skills .do {
+    display: flex;
+    align-items: center;
+}
+.skills .want {
+    display: flex;
+    align-items: center;
+}
+#projectsText {
+    margin-top: 90px;
+    text-align: center;
+    margin-bottom: 30px;
+} 
+#listP {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+#carousel {
+    width: 350px;
+}
+#invalid {
+    width: 350px;
+    height: 200px;
+}
+.containerList {
+    padding: 0 370px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.containerList .contProject {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.containerList .contProject a {
+    margin-top: 10px;
+    text-decoration: none;
+    color: #000;
+}
+.containerList .contProject a:hover {
+    text-decoration: underline;
+}
+#linksText {
+    margin-top: 90px;
+    text-align: center;
+    margin-bottom: 30px;
+} 
+#linkP {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+#social {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+} 
+#soc {
+    width: 40px;
+    cursor: pointer;
+}
+.containerSocials {
+    display: flex;
+    padding: 0 370px;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+}
+#code {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+} 
+.containerGit {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+#bio {
+    margin-top: 90px;
+    text-align: center;
+    margin-bottom: 30px;
+} 
+.containerTextBio {
+    padding: 0 370px;
+    text-indent: 25px;
+}
+.containerCertificates {
+    display: flex;
+    justify-content:space-evenly;
+}
+.containerCertificates img {
+    border: 1px solid black;
+    width: 400px;
+    margin-bottom: 30px;
+}
+.containerCertificates img:last-child {
+    margin-right: 0;
+}
